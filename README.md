@@ -1,2 +1,2 @@
 # historical-weather-forecast
-Historical Weather Forecast Comparison to Actuals
+Historical weather forecast comparison to actuals.
